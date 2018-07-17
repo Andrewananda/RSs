@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Rss</string>
+    <string name="news">News</string>
+    <string name="description">A day after unveiling its Nipashe news dream team, Citizen TV has now revealed it’s marquee line up for its 9PM news.
+
+The new all-star line up sees Jeff Koinange join the Citizen TV news team which has a galaxy of stars that include; Ann Kiguta, Hussein Mohammed, Victoria Rubadiri, Lillian Muli, Yvonne Okwara, Waihiga Mwaura and Jacque Maribe.
+
+The revamped show, which is the undisputed prime-time leader in the country, sees Waihiga Mwaura move from mid-morning to prime time and will be paired with Jacque Maribe.
+
+Jeff Koinange will be bringing you the latest news from across the country together with Victoria Rubadiri.
+
+The company has revamped in an effort to continue setting the standards and completely dominating the Kenyan media landscape.</string>
+
+    <string name="sports">Talks are continuing between Arsenal and Aaron Ramsey over a new contract for the Wales international, Sky Sports News understands.
+
+The midfielder has one year left on his current deal and securing his future is believed to be a big priority for Gunners\' head coach Unai Emery as he continues to shape his squad ahead of his first season in charge.
+
+"I'm very happy with him," Emery said of Ramsey last week. "Every day every training session he is with the ambition I want. He is working with quality. I want to work with him." Asked why Ramsey has yet to sign a new deal, Emery added: "This is one question for the player, the club, but my opinion - I said to them - I think he is one important player for me." Arsenal manager Unai Emery reveals there is only one scenario in which another signing might arrive before the current transfer window ends. </string>
+
+    <string-array name="items">
+        <item>News</item>
+        <item>Sports</item>
+        <item>Business</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>News coming in</item>
+        <item>Latest sport news coming from the sports center</item>
+        <item>Business news coming in</item>
+    </string-array>
+
+
+</resources>
